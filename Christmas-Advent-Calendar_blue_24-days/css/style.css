@@ -4,7 +4,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: white;
+  background-color: #E6C6C9;
   color: #fff;
   font-family: 'Open Sans', sans-serif;
   font-size: 10px;
@@ -32,6 +32,8 @@ a:active {
 	margin: 0 auto;
 	max-width: 900px;
 	text-align: center;
+  margin-top: 30px;
+  margin-bottom: -60px;
 }
 
 #wrapper > img {
@@ -71,7 +73,7 @@ padding: 15px;
 /** doors background image and special height **/
 
 
-.d1 a, .d2 a, .d3 a, .d4 a, .d5 a, .d6 a, .d7 a, .d8 a, .d9 a, .d10 a, .d11 a, .d12 a, .d13 a, .d14 a, .d15 a, .d16 a, .d17 a, .d18 a, .d19 a, .d20 a, .d21 a, .d22 a, .d23 a, .d24 a {
+.d1 a, .d2 a, .d3 a, .d4 a, .d5 a, .d6 a, .d7 a, .d8 a, .d9 a, .d10 a, .d11 a, .d12 a, .d13 a, .d14 a, .d15 a, .d16 a, .d17 a, .d18 a, .d19 a, .d20 a, .d21 a, .d22 a, .d23 a, .d24 a, .d25 a, .d26 a, .d27 a, .d28 a, .d29 a, .d30 a, .d31 a {
 	height: 104px;
 }
 
@@ -170,7 +172,31 @@ padding: 15px;
 .d24 > a {
 	background-image: url('../img/doors/13.png');
 }
+.d25 > a {
+	background-image: url('../img/doors/25.png');
+}
+.d26 > a {
+	background-image: url('../img/doors/26.png');
+}
 
+.d27 > a {
+	background-image: url('../img/doors/27.png');
+}
+
+.d28 > a {
+	background-image: url('../img/doors/28.png');
+}
+
+.d29 > a {
+	background-image: url('../img/doors/29.png');
+}
+.d30 > a {
+	background-image: url('../img/doors/30.png');
+}
+
+.d31 > a {
+	background-image: url('../img/doors/31.png');
+}
 @media only screen
 and (min-device-width : 320px)
 and (max-device-width : 568px)
