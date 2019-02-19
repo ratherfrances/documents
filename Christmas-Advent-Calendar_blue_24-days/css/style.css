@@ -80,95 +80,95 @@ padding: 15px;
 }
 
 .d2 > a {
-	background-image: url('../img/doors/2.png');
+	background-image: url('../img/doors/24.png');
 }
 
 .d3 > a {
-	background-image: url('../img/doors/3.png');
-}
-
-.d4 > a {
-	background-image: url('../img/doors/4.png');
-}
-
-.d5 > a {
-	background-image: url('../img/doors/5.png');
-}
-
-.d6 > a {
-	background-image: url('../img/doors/6.png');
-}
-
-.d7 > a {
-	background-image: url('../img/doors/7.png');
-}
-
-.d8 > a {
-	background-image: url('../img/doors/8.png');
-}
-
-.d9 > a {
-	background-image: url('../img/doors/9.png');
-}
-
-.d10 > a {
-	background-image: url('../img/doors/10.png');
-}
-
-.d11 > a {
 	background-image: url('../img/doors/11.png');
 }
 
-.d12 > a {
-	background-image: url('../img/doors/12.png');
-}
-
-.d13 > a {
-	background-image: url('../img/doors/13.png');
-}
-
-.d14 > a {
-	background-image: url('../img/doors/14.png');
-}
-
-.d15 > a {
-	background-image: url('../img/doors/15.png');
-}
-
-.d16 > a {
+.d4 > a {
 	background-image: url('../img/doors/16.png');
 }
 
-.d17 > a {
-	background-image: url('../img/doors/17.png');
+.d5 > a {
+	background-image: url('../img/doors/6.png');
 }
 
-.d18 > a {
-	background-image: url('../img/doors/18.png');
+.d6 > a {
+	background-image: url('../img/doors/10.png');
 }
 
-.d19 > a {
-	background-image: url('../img/doors/19.png');
+.d7 > a {
+	background-image: url('../img/doors/3.png');
 }
 
-.d20 > a {
-	background-image: url('../img/doors/20.png');
+.d8 > a {
+	background-image: url('../img/doors/9.png');
 }
 
-.d21 > a {
+.d9 > a {
+	background-image: url('../img/doors/5.png');
+}
+
+.d10 > a {
 	background-image: url('../img/doors/21.png');
 }
 
-.d22 > a {
+.d11 > a {
+	background-image: url('../img/doors/7.png');
+}
+
+.d12 > a {
+	background-image: url('../img/doors/15.png');
+}
+
+.d13 > a {
+	background-image: url('../img/doors/17.png');
+}
+
+.d14 > a {
+	background-image: url('../img/doors/19.png');
+}
+
+.d15 > a {
+	background-image: url('../img/doors/8.png');
+}
+
+.d16 > a {
+	background-image: url('../img/doors/2.png');
+}
+
+.d17 > a {
+	background-image: url('../img/doors/14.png');
+}
+
+.d18 > a {
 	background-image: url('../img/doors/22.png');
 }
 
-.d23 > a {
+.d19 > a {
+	background-image: url('../img/doors/20.png');
+}
+
+.d20 > a {
+	background-image: url('../img/doors/18.png');
+}
+
+.d21 > a {
+	background-image: url('../img/doors/12.png');
+}
+
+.d22 > a {
 	background-image: url('../img/doors/23.png');
 }
 
+.d23 > a {
+	background-image: url('../img/doors/4.png');
+}
+
 .d24 > a {
-	background-image: url('../img/doors/24.png');
+	background-image: url('../img/doors/13.png');
 }
 
 @media only screen
