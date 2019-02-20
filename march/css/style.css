@@ -1,0 +1,278 @@
+body {
+  /* background-image: url(../img/bg.jpg); */
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #E6C6C9;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+}
+
+a {
+	font-size: 10px;
+	color: #9ababf;
+	font-family: 'Open Sans', sans-serif;
+}
+a:link {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+	color: grey;
+}
+a:active {
+	text-decoration: none;
+	color: black;
+}
+
+#wrapper {
+	margin: 0 auto;
+	max-width: 900px;
+	text-align: center;
+  margin-top: 30px;
+  margin-bottom: -60px;
+}
+
+#wrapper > img {
+	width: 61%;
+	height: auto;
+}
+
+img.social {
+width: 25%;
+height: auto;
+padding: 15px;
+}
+
+#doors {
+	list-style: none;
+	text-align: center;
+	padding: 0;
+}
+
+.door {
+	display: inline-block;
+	padding: 5px 20px;
+}
+
+.door a {
+	display: block;
+	width: 90px;
+	background-size: 90px auto;
+	background-position: 0 0;
+}
+
+.door a:hover {
+	background-position: left bottom;
+}
+
+
+/** doors background image and special height **/
+
+
+.d1 a, .d2 a, .d3 a, .d4 a, .d5 a, .d6 a, .d7 a, .d8 a, .d9 a, .d10 a, .d11 a, .d12 a, .d13 a, .d14 a, .d15 a, .d16 a, .d17 a, .d18 a, .d19 a, .d20 a, .d21 a, .d22 a, .d23 a, .d24 a, .d25 a, .d26 a, .d27 a, .d28 a, .d29 a, .d30 a, .d31 a {
+	height: 104px;
+}
+
+.d1 > a {
+	background-image: url('../img/doors/1.png');
+}
+
+.d2 > a {
+	background-image: url('../img/doors/24.png');
+}
+
+.d3 > a {
+	background-image: url('../img/doors/11.png');
+}
+
+.d4 > a {
+	background-image: url('../img/doors/16.png');
+}
+
+.d5 > a {
+	background-image: url('../img/doors/6.png');
+}
+
+.d6 > a {
+	background-image: url('../img/doors/10.png');
+}
+
+.d7 > a {
+	background-image: url('../img/doors/3.png');
+}
+
+.d8 > a {
+	background-image: url('../img/doors/9.png');
+}
+
+.d9 > a {
+	background-image: url('../img/doors/5.png');
+}
+
+.d10 > a {
+	background-image: url('../img/doors/21.png');
+}
+
+.d11 > a {
+	background-image: url('../img/doors/7.png');
+}
+
+.d12 > a {
+	background-image: url('../img/doors/15.png');
+}
+
+.d13 > a {
+	background-image: url('../img/doors/17.png');
+}
+
+.d14 > a {
+	background-image: url('../img/doors/19.png');
+}
+
+.d15 > a {
+	background-image: url('../img/doors/8.png');
+}
+
+.d16 > a {
+	background-image: url('../img/doors/2.png');
+}
+
+.d17 > a {
+	background-image: url('../img/doors/14.png');
+}
+
+.d18 > a {
+	background-image: url('../img/doors/22.png');
+}
+
+.d19 > a {
+	background-image: url('../img/doors/20.png');
+}
+
+.d20 > a {
+	background-image: url('../img/doors/18.png');
+}
+
+.d21 > a {
+	background-image: url('../img/doors/12.png');
+}
+
+.d22 > a {
+	background-image: url('../img/doors/23.png');
+}
+
+.d23 > a {
+	background-image: url('../img/doors/4.png');
+}
+
+.d24 > a {
+	background-image: url('../img/doors/13.png');
+}
+.d25 > a {
+	background-image: url('../img/doors/25.png');
+}
+.d26 > a {
+	background-image: url('../img/doors/26.png');
+}
+
+.d27 > a {
+	background-image: url('../img/doors/27.png');
+}
+
+.d28 > a {
+	background-image: url('../img/doors/28.png');
+}
+
+.d29 > a {
+	background-image: url('../img/doors/29.png');
+}
+.d30 > a {
+	background-image: url('../img/doors/30.png');
+}
+
+.d31 > a {
+	background-image: url('../img/doors/31.png');
+}
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : portrait) {
+
+#wrapper {
+	margin: 0 auto;
+	max-width: 400px;
+	text-align: center;
+}
+
+#wrapper > img {
+	width: 90%;
+	height: auto;
+}
+
+img.social {
+width: 40%;
+height: auto;
+padding: 0px !important;
+}
+
+#doors {
+	list-style: none;
+	padding: 0px;
+	text-align: center;
+}
+
+.door {
+	display: inline-block;
+	padding: 5px 10px;
+}
+
+.door a {
+	display: block;
+	width: 43px;
+	background-size: 43px auto;
+	background-position: 0 0;
+}
+
+/** doors background image and special height **/
+.d1 a, .d2 a, .d3 a, .d4 a, .d5 a, .d6 a, .d7 a, .d8 a, .d9 a, .d10 a, .d11 a, .d12 a, .d13 a, .d14 a, .d15 a, .d16 a, .d17 a, .d18 a, .d19 a, .d20 a, .d21 a, .d22 a, .d23 a, .d24 a {
+	height: 49px;
+}
+
+ }
+
+ @media only screen and (max-width : 650px)  {
+#wrapper > img {
+    width: 81%;
+}
+
+img.social {
+        width: 35%;
+
+}
+
+ @media only screen and (max-width : 760px)  {
+
+img.social {
+        width: 35%;
+
+}
+
+
+}
+
+ @media only screen and (max-width : 427px)  {
+
+
+img.social {
+    width: 55%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+}
